@@ -1,0 +1,15 @@
+body{
+background-color: #E3FDFD;
+margin 8px;
+}
+hr{
+  background-color: #F5E8C7;
+  border-style: none;
+  height: 2px;
+  width: 100px;
+
+}
+img{
+  height: 150px;
+  width: 120px;
+}
